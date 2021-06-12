@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Casino ID
 has_intro: true
 intro_content: >-
   This is the "about" excerpt. It can be used to provide a paragraph about
